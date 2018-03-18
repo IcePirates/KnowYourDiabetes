@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/Diabetic eye disease - normal eye.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Diabetic eye disease - mild.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/Diabetic eye disease - moderate.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/Diabetic eye disease - severe.unity
+  isLoaded: 1
+  isActive: 0
